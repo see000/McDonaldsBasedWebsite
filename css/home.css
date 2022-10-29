@@ -1,0 +1,114 @@
+body {
+    min-height: 2000px;
+    background-color: rgba(40,49,84,255)
+}
+
+header {
+    position: fixed;
+    width: auto;
+}
+
+#topnavcontainer {
+    background-color: rgba(40,49,84,255);
+        
+}
+
+#topnavbar{
+    
+    font-family: 'Roboto Slab', serif;
+    font-size: 150%;
+    background-color: rgba(40,49,84,255);  margin: 0;
+    padding: 0;
+    
+
+}
+#navbarTogglerDemo01{
+        font-family: 'Roboto Slab', serif;
+        
+}
+#topnavbar a{
+    color: #ffffff;
+    font-size: 110%;
+}
+ 
+
+#buttonCollapse{
+    background-color: white;
+}
+
+.nav-item:hover{
+    background-color: #668CEA ;
+}
+
+
+#Welcome h2 {
+    font-weight:900;
+    font-size: 300%;
+    color: white
+}
+
+#Welcome p {
+    font-weight: 300;
+    font-size: 150%;
+    color: #bdc1c7;
+}
+
+#Welcome h2,p
+ {
+
+    font-family: 'Roboto Slab', serif;
+}
+
+#ads img {
+    width: 100%
+}
+#ads {
+    color: #000000;
+    font-family: 'Roboto Slab', serif;;
+    font-weight: 500;
+    font-size: 150%;
+}
+
+.content {
+    
+    height: auto;
+    margin-top: -20px;
+    padding-top: 20px;
+    position: relative;
+    
+    
+}
+#descriptionAds1{
+    background-image: linear-gradient(to top, rgba(209, 127, 41.1),rgba(209, 127, 41,0.9));
+}
+
+#descriptionAds2{
+    background-image: linear-gradient(to top, rgba(252,186,27,1),rgba(252,186,27,0.9));
+}
+
+#descriptionAds3{
+    background-image: linear-gradient(to top, rgba(255,255,255,1),rgba(252,186,27,0.9));
+}
+
+#descriptionAds4{
+    background-image: linear-gradient(to top, rgba(120,207,236,1),rgba(120,207,236,0.9));
+}
+#descriptionAds5{
+    background-image: linear-gradient(to top, rgba(31,138,221,1),rgba(31,138,221,0.9));
+}
+#descriptionAds6{
+    background-image: linear-gradient(to top, rgba(193,156,114,1),rgba(193,156,114,0.9));
+}
+#descriptionAds7{
+    background-image: linear-gradient(to top, rgba(242,171,11,1),rgba(242,171,11,0.9));
+}
+#descriptionAds8{
+    background-image: linear-gradient(to top, rgba(255,255,255,1),rgba(255,255,255,1));
+}
+#descriptionAds9{
+    background-image: linear-gradient(to top, rgba(217,217,217,255),rgba(217,217,217,0.9));
+}
+#descriptionAds10{
+    background-image: linear-gradient(to top, rgba(0,0,0,1),rgba(0,0,0,0.5));
+    color: white;
+}

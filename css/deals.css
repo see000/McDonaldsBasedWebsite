@@ -1,0 +1,166 @@
+body {
+    min-height: 2000px;
+    background-color: #ffffff;
+}
+
+#topnavcontainer {
+    background-color: rgba(249, 29, 52, 255);
+
+}
+
+header {
+    position: fixed;
+    width: auto;
+}
+
+#topnavbar {
+
+    font-family: 'Roboto Slab', serif;
+    font-size: 150%;
+    background-color: rgba(249, 29, 52, 255);
+    margin: 0;
+    padding: 0;
+
+
+}
+
+#navbarTogglerDemo01 {
+    font-family: 'Roboto Slab', serif;
+
+}
+
+#topnavbar a {
+    color: #ffffff;
+    font-size: 110%;
+}
+
+
+#buttonCollapse {
+    background-color: white;
+}
+
+#nav-item-sidebar:hover {
+    background-color: #83858C;
+}
+
+#pilltopnav {
+    border-radius: 20%;
+    border-width: thin;
+    border-style: solid;
+    border-color: #000000;
+    background-color: #ffffff;
+    color: #000000;
+    width: auto;
+    height: 40px;
+    font-family: 'Roboto Slab', serif;
+    font-weight:400;
+    font-size: 200%;
+    margin: 20px 10px 20px 10px;
+    text-align: center;
+    padding-top: 10px;
+
+}
+
+#pilltopnav:hover,
+#pilltopnav:active {
+    background-color: yellow;
+}
+
+#top-nav {
+    position: static;
+}
+
+#dealsrow {
+    height: auto;
+}
+
+#dealcontainer {
+    height: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#dealcontainer img {
+    height: auto;
+    width: 100%;
+}
+
+#dealdetails {
+    font-family: 'Roboto Slab', serif;
+    font-size: 20px;
+    height: 100%;
+    
+}
+#dealdetails span ,p{
+    padding-left: 5%;
+    
+}
+
+
+.dealdescib1 {
+
+    background-color: rgb(245, 198, 48);
+    color: black;
+    height: 100%;
+    
+}
+
+.dealdescib2 {
+    
+    background-color: rgb(252, 224, 63);
+    color: black;
+    height: 100%;
+    }
+
+.dealdescib3 {
+        background-color: rgb(252, 224, 63);
+        color: black;
+        height: 100%;
+    }
+
+.dealdescib4 {
+
+        background-color: rgba(252,224,63,255);
+        color: black;
+        height: 100%;
+    }
+
+.dealdescib5 {
+ 
+        background-color: rgba(252,224,63,255);
+        color: black;
+        height: 100%;
+    }
+
+.dealdescib6 {
+        background-color: rgba(135,207,231,255);
+        color: black;
+        height: 100%;
+    }
+
+.dealdescib7 {
+        background-color: rgba(20,83,134,255);
+        color: white;
+        height: 100%;
+    }
+
+.dealdescib8 {
+
+        background-color: rgb(245, 198, 48);
+        color: black;
+        height: 100%;
+    }
+
+#sec_sub_box{
+    border-top: solid;
+    border-width: thin;
+    border-color: #Dcdbd7;
+    
+    
+    
+}
+#text_first_sub_box{
+    padding-left: 5%;
+}
+
+
